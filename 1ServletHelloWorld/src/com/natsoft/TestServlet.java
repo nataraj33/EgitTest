@@ -22,7 +22,7 @@ public class TestServlet extends HttpServlet {
 	              "</html>";
        
     /**
-     * @see HttpServlet#HttpServlet()
+     * @see HttpServlet#HttpServlet() test
      */
     public TestServlet() {
         super();
